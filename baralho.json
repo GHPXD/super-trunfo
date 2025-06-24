@@ -1,0 +1,506 @@
+[
+  {
+    "nome": "Estados Unidos",
+    "bandeira_url": "https://flagcdn.com/w320/us.png",
+    "atributos": {
+      "populacao": 331.9,
+      "area": 9833520,
+      "pib": 25.46,
+      "expectativa_vida": 77.2,
+      "idh": 0.926,
+      "forca_militar": 100
+    },
+    "super_trunfo": true,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Rússia",
+    "bandeira_url": "https://flagcdn.com/w320/ru.png",
+    "atributos": {
+      "populacao": 145.5,
+      "area": 17098246,
+      "pib": 2.24,
+      "expectativa_vida": 71.3,
+      "idh": 0.824,
+      "forca_militar": 98
+    },
+    "super_trunfo": false,
+    "anti_trunfo": true
+  },
+  {
+    "nome": "China",
+    "bandeira_url": "https://flagcdn.com/w320/cn.png",
+    "atributos": {
+      "populacao": 1444.2,
+      "area": 9596961,
+      "pib": 17.73,
+      "expectativa_vida": 77.1,
+      "idh": 0.761,
+      "forca_militar": 95
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Brasil",
+    "bandeira_url": "https://flagcdn.com/w320/br.png",
+    "atributos": {
+      "populacao": 213.9,
+      "area": 8515767,
+      "pib": 1.61,
+      "expectativa_vida": 75.9,
+      "idh": 0.754,
+      "forca_militar": 85
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Índia",
+    "bandeira_url": "https://flagcdn.com/w320/in.png",
+    "atributos": {
+      "populacao": 1393.4,
+      "area": 3287263,
+      "pib": 3.17,
+      "expectativa_vida": 69.7,
+      "idh": 0.645,
+      "forca_militar": 92
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Canadá",
+    "bandeira_url": "https://flagcdn.com/w320/ca.png",
+    "atributos": {
+      "populacao": 38.1,
+      "area": 9984670,
+      "pib": 1.99,
+      "expectativa_vida": 82.4,
+      "idh": 0.929,
+      "forca_militar": 70
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Japão",
+    "bandeira_url": "https://flagcdn.com/w320/jp.png",
+    "atributos": {
+      "populacao": 125.7,
+      "area": 377975,
+      "pib": 4.94,
+      "expectativa_vida": 84.6,
+      "idh": 0.919,
+      "forca_militar": 78
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Alemanha",
+    "bandeira_url": "https://flagcdn.com/w320/de.png",
+    "atributos": {
+      "populacao": 83.2,
+      "area": 357022,
+      "pib": 4.22,
+      "expectativa_vida": 81.3,
+      "idh": 0.947,
+      "forca_militar": 81
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Reino Unido",
+    "bandeira_url": "https://flagcdn.com/w320/gb.png",
+    "atributos": {
+      "populacao": 67.2,
+      "area": 243610,
+      "pib": 3.19,
+      "expectativa_vida": 81.2,
+      "idh": 0.932,
+      "forca_militar": 88
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "França",
+    "bandeira_url": "https://flagcdn.com/w320/fr.png",
+    "atributos": {
+      "populacao": 65.5,
+      "area": 551695,
+      "pib": 2.94,
+      "expectativa_vida": 82.7,
+      "idh": 0.901,
+      "forca_militar": 86
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Itália",
+    "bandeira_url": "https://flagcdn.com/w320/it.png",
+    "atributos": {
+      "populacao": 59.1,
+      "area": 301340,
+      "pib": 2.11,
+      "expectativa_vida": 83.5,
+      "idh": 0.883,
+      "forca_militar": 75
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Austrália",
+    "bandeira_url": "https://flagcdn.com/w320/au.png",
+    "atributos": {
+      "populacao": 25.7,
+      "area": 7692024,
+      "pib": 1.54,
+      "expectativa_vida": 83.4,
+      "idh": 0.944,
+      "forca_militar": 68
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Coreia do Sul",
+    "bandeira_url": "https://flagcdn.com/w320/kr.png",
+    "atributos": {
+      "populacao": 51.8,
+      "area": 100210,
+      "pib": 1.81,
+      "expectativa_vida": 83.3,
+      "idh": 0.916,
+      "forca_militar": 80
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Argentina",
+    "bandeira_url": "https://flagcdn.com/w320/ar.png",
+    "atributos": {
+      "populacao": 45.8,
+      "area": 2780400,
+      "pib": 0.49,
+      "expectativa_vida": 76.7,
+      "idh": 0.845,
+      "forca_militar": 60
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "África do Sul",
+    "bandeira_url": "https://flagcdn.com/w320/za.png",
+    "atributos": {
+      "populacao": 59.3,
+      "area": 1221037,
+      "pib": 0.42,
+      "expectativa_vida": 64.1,
+      "idh": 0.709,
+      "forca_militar": 58
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Nigéria",
+    "bandeira_url": "https://flagcdn.com/w320/ng.png",
+    "atributos": {
+      "populacao": 206.1,
+      "area": 923768,
+      "pib": 0.44,
+      "expectativa_vida": 54.7,
+      "idh": 0.539,
+      "forca_militar": 55
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Egito",
+    "bandeira_url": "https://flagcdn.com/w320/eg.png",
+    "atributos": {
+      "populacao": 102.3,
+      "area": 1002450,
+      "pib": 0.4,
+      "expectativa_vida": 71.9,
+      "idh": 0.707,
+      "forca_militar": 77
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Arábia Saudita",
+    "bandeira_url": "https://flagcdn.com/w320/sa.png",
+    "atributos": {
+      "populacao": 34.8,
+      "area": 2149690,
+      "pib": 0.84,
+      "expectativa_vida": 75.1,
+      "idh": 0.854,
+      "forca_militar": 72
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "México",
+    "bandeira_url": "https://flagcdn.com/w320/mx.png",
+    "atributos": {
+      "populacao": 128.9,
+      "area": 1964375,
+      "pib": 1.29,
+      "expectativa_vida": 75.1,
+      "idh": 0.779,
+      "forca_militar": 65
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Indonésia",
+    "bandeira_url": "https://flagcdn.com/w320/id.png",
+    "atributos": {
+      "populacao": 273.5,
+      "area": 1904569,
+      "pib": 1.19,
+      "expectativa_vida": 71.7,
+      "idh": 0.718,
+      "forca_militar": 69
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Paquistão",
+    "bandeira_url": "https://flagcdn.com/w320/pk.png",
+    "atributos": {
+      "populacao": 220.9,
+      "area": 796095,
+      "pib": 0.35,
+      "expectativa_vida": 67.3,
+      "idh": 0.557,
+      "forca_militar": 83
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Turquia",
+    "bandeira_url": "https://flagcdn.com/w320/tr.png",
+    "atributos": {
+      "populacao": 84.3,
+      "area": 783562,
+      "pib": 0.91,
+      "expectativa_vida": 77.7,
+      "idh": 0.820,
+      "forca_militar": 82
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Irã",
+    "bandeira_url": "https://flagcdn.com/w320/ir.png",
+    "atributos": {
+      "populacao": 83.9,
+      "area": 1648195,
+      "pib": 0.23,
+      "expectativa_vida": 76.7,
+      "idh": 0.783,
+      "forca_militar": 79
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Espanha",
+    "bandeira_url": "https://flagcdn.com/w320/es.png",
+    "atributos": {
+      "populacao": 47.4,
+      "area": 505990,
+      "pib": 1.43,
+      "expectativa_vida": 83.6,
+      "idh": 0.904,
+      "forca_militar": 67
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Polônia",
+    "bandeira_url": "https://flagcdn.com/w320/pl.png",
+    "atributos": {
+      "populacao": 37.9,
+      "area": 312696,
+      "pib": 0.68,
+      "expectativa_vida": 77.5,
+      "idh": 0.881,
+      "forca_militar": 62
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Ucrânia",
+    "bandeira_url": "https://flagcdn.com/w320/ua.png",
+    "atributos": {
+      "populacao": 43.7,
+      "area": 603628,
+      "pib": 0.2,
+      "expectativa_vida": 72.1,
+      "idh": 0.779,
+      "forca_militar": 76
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Holanda",
+    "bandeira_url": "https://flagcdn.com/w320/nl.png",
+    "atributos": {
+      "populacao": 17.5,
+      "area": 41850,
+      "pib": 1.01,
+      "expectativa_vida": 82.3,
+      "idh": 0.941,
+      "forca_militar": 64
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Suíça",
+    "bandeira_url": "https://flagcdn.com/w320/ch.png",
+    "atributos": {
+      "populacao": 8.7,
+      "area": 41284,
+      "pib": 0.85,
+      "expectativa_vida": 83.8,
+      "idh": 0.955,
+      "forca_militar": 50
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Suécia",
+    "bandeira_url": "https://flagcdn.com/w320/se.png",
+    "atributos": {
+      "populacao": 10.4,
+      "area": 450295,
+      "pib": 0.6,
+      "expectativa_vida": 82.8,
+      "idh": 0.945,
+      "forca_militar": 57
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Noruega",
+    "bandeira_url": "https://flagcdn.com/w320/no.png",
+    "atributos": {
+      "populacao": 5.4,
+      "area": 323802,
+      "pib": 0.58,
+      "expectativa_vida": 82.9,
+      "idh": 0.957,
+      "forca_militar": 56
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Singapura",
+    "bandeira_url": "https://flagcdn.com/w320/sg.png",
+    "atributos": {
+      "populacao": 5.7,
+      "area": 710,
+      "pib": 0.4,
+      "expectativa_vida": 83.6,
+      "idh": 0.938,
+      "forca_militar": 63
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Nova Zelândia",
+    "bandeira_url": "https://flagcdn.com/w320/nz.png",
+    "atributos": {
+      "populacao": 4.9,
+      "area": 268838,
+      "pib": 0.25,
+      "expectativa_vida": 82.3,
+      "idh": 0.931,
+      "forca_militar": 45
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Emirados Árabes Unidos",
+    "bandeira_url": "https://flagcdn.com/w320/ae.png",
+    "atributos": {
+      "populacao": 9.9,
+      "area": 83600,
+      "pib": 0.51,
+      "expectativa_vida": 78.0,
+      "idh": 0.890,
+      "forca_militar": 66
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Chile",
+    "bandeira_url": "https://flagcdn.com/w320/cl.png",
+    "atributos": {
+      "populacao": 19.5,
+      "area": 756102,
+      "pib": 0.34,
+      "expectativa_vida": 80.3,
+      "idh": 0.851,
+      "forca_militar": 59
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Portugal",
+    "bandeira_url": "https://flagcdn.com/w320/pt.png",
+    "atributos": {
+      "populacao": 10.3,
+      "area": 92090,
+      "pib": 0.25,
+      "expectativa_vida": 81.1,
+      "idh": 0.864,
+      "forca_militar": 54
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  },
+  {
+    "nome": "Finlândia",
+    "bandeira_url": "https://flagcdn.com/w320/fi.png",
+    "atributos": {
+      "populacao": 5.5,
+      "area": 338424,
+      "pib": 0.3,
+      "expectativa_vida": 81.8,
+      "idh": 0.938,
+      "forca_militar": 53
+    },
+    "super_trunfo": false,
+    "anti_trunfo": false
+  }
+]
